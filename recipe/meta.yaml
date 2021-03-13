@@ -1,5 +1,5 @@
 {% set name = "git-machete" %}
-{% set version = "2.16.1" %}
+{% set version = "3.0.0" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/git-machete-{{ version }}.tar.gz
-  sha256: e4259485bee034fa253363c0a229eb84fb2846e137180528c308c5fa061eb003
+  sha256: 0d0cf391be577990ebac926a4e4f727415b18a2923b1177e87aa4599dfd0fd1c
 
 build:
   number: 0
