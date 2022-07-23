@@ -143,5 +143,6 @@ In order to produce a uniquely identifiable distribution:
 Feedstock Maintainers
 =====================
 
+* [@amalota](https://github.com/amalota/)
 * [@asford](https://github.com/asford/)
 
