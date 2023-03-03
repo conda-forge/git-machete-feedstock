@@ -1,11 +1,11 @@
-About git-machete
-=================
+About git-machete-feedstock
+===========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/git-machete-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/VirtusLab/git-machete
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/git-machete-feedstock/blob/main/LICENSE.txt)
 
 Summary: Probably the sharpest git repository organizer & rebase/merge workflow automation tool you've ever seen
 
